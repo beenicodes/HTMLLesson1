@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Beenish Farhan</title>
+    <title>
+    Beenish Farhan
+    </title>
 </head>
 <body>
     
